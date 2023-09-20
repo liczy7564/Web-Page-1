@@ -1,0 +1,14 @@
+[
+    {
+        "Headline":"<button onclick='Shop(1)'><span class='fouritemicon'>?</span><span class='fouritemlittletitle'>[服務平台][訂購方式] ➤ 哪裡買窗簾？如何下單？</span></button><div class='fouritemcontent fmajorShopping'> <hr><h4><span><strong>訂購方式<br></strong></span></h4><p><ol type='1' start='1'><li>直接與 <strong>幔室布緹客服</strong>聯繫下單：<br>→<a class='redw'>E-mail</a>、電話 或 <a class='redw'>LINE</a><br>→<a>線上即時報價</a><br>待確認訂購品項細節無誤、付款下單訂製，製作完成即與您聯繫出貨事宜。<br><br>付款方式：轉帳匯款．信用卡授權．貨到付款．自取付現</li><li>透過<strong>幔室布緹線上商店</strong>下單：<br>→<a class='redw'>現成品專區</a><br>購物車內容確認無誤後送出訂單，待客服人員完成訂單審核，將續以email發出付款方式通知。<br><br>付款方式：ATM轉帳．線上信用卡</li></ol></p><p>※ 一旦付款／下標後交易即成立，請注意訂製商品／指定尺寸修改的商品無法退換貨。</p>"
+    },
+    {
+        "Headline":"<button onclick='Shop(2)'><span class='fouritemicon'>?</span><span class='fouritemlittletitle'>[[訪客預約] ➤ 有店面供參觀？</span></button><div class='fouritemcontent fmajorShopping'> <hr><h4><span><strong>預約看樣<br></strong></span></h4><p><ol type='1' start='1'><li>直接與 <strong>幔室布緹客服</strong><p>【MSBT 幔室布緹】目前沒有實體店面，但在 桃園總公司 與 高雄營業處 均有設立展示間。預約服務時間為週一至週五10:00～16:00，例假日及國定假日休息。<br><br>如欲蒞臨參觀實際品項，敬請提前2～3天向客服人員預約，以利提供完整且專屬的訪客服務。並歡迎攜帶窗戶照片尺寸，作為現場討論細節及進行報價的資料依據。</p>"
+    },
+    {
+        "Headline":"<button onclick='Shop(3)'><span class='fouritemicon'>?</span><span class='fouritemlittletitle'>[出貨流程] ➤ 出貨時間要多久？</span></button><div class='fouritemcontent fmajorShopping'><hr><h4><span><strong>出貨時間<br></strong></span></h4><ol type='1' start='1'><li>有庫存的現成品：<br>訂單確認後1～5個工作天內即安排出貨。</li><li>特別訂製商品：<br>訂單確認後，需5～14個工作天進行排單生產，待品檢完成即聯繫出貨。<br>Zosen日本進口訂製窗簾，經日本車縫加工完成至國際快遞送達，需14～20個工作天。如能提早完成，即提前發貨。<br></li></ol><p>※ 以上時間皆不含例假日與國定假日。</p>"
+    },
+    {
+        "Headline":"<button onclick='Shop(4)'><span class='fouritemicon'>?</span><span class='fouritemlittletitle'>[寄送運費] ➤ 商品滿額免運費？可寄送到離島或海外？</span></button><div class='fouritemcontent fmajorShopping'><hr><h4><span><strong>貨運宅配<br></strong></span></h4><p>如寄送地點為台灣本島內，單筆訂單商品金額 滿千元 即免運（超長件、偏遠地區除外）。</p><p>MSBT 幔室布緹】有提供台灣離島與國際海外的寄送服務，需由消費者負擔運送費用。歡迎直洽客服人員。</p>"
+    }
+]
